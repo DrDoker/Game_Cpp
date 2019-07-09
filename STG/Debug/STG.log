@@ -1,0 +1,18 @@
+﻿  Player.cpp
+c:\visual studio stuff\projects\stg\stg\player.cpp(43): warning C4305: =: усечение из "double" к "float"
+c:\visual studio stuff\projects\stg\stg\player.cpp(44): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\visual studio stuff\projects\stg\stg\player.cpp(53): warning C4305: =: усечение из "double" к "float"
+c:\visual studio stuff\projects\stg\stg\player.cpp(54): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\visual studio stuff\projects\stg\stg\player.cpp(64): warning C4305: =: усечение из "double" к "float"
+c:\visual studio stuff\projects\stg\stg\player.cpp(66): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\visual studio stuff\projects\stg\stg\player.cpp(74): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\visual studio stuff\projects\stg\stg\player.cpp(82): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\visual studio stuff\projects\stg\stg\player.cpp(126): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\visual studio stuff\projects\stg\stg\player.cpp(147): warning C4018: <: несоответствие типов со знаком и без знака
+c:\visual studio stuff\projects\stg\stg\player.cpp(167): warning C4305: =: усечение из "double" к "float"
+c:\visual studio stuff\projects\stg\stg\player.cpp(172): warning C4305: =: усечение из "double" к "float"
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  main.cpp
+  STG.vcxproj -> C:\Visual Studio Stuff\Projects\STG\Debug\STG.exe
+  STG.vcxproj -> C:\Visual Studio Stuff\Projects\STG\Debug\STG.pdb (Full PDB)
